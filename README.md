@@ -47,7 +47,9 @@
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
-<strong>🔗 Links</strong>
+
+
+# 🔗 Links
 
 My Portfolio: https://ruwminu.github.io/ray-portfolio/
 
